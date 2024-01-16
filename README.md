@@ -1,3 +1,9 @@
+## Team D-A-C
+Abdias Dagbekpo 300101078
+Cedric Glavina 300173550
+Dalia Sawaya 300111681
+
+
 ## Synopsis
 
 csi3x40_labs
